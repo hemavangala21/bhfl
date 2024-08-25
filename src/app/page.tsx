@@ -138,15 +138,15 @@ export default function Home() {
                 <h4 className="font-semibold mb-2">User Details:</h4>
                 <p className="flex items-center mb-1">
                   <User className="w-4 h-4 mr-2" />
-                  User ID: indhu_veginetti_07102003
+                  User ID: vangalahemalatha_21092003
                 </p>
                 <p className="flex items-center mb-1">
                   <Mail className="w-4 h-4 mr-2" />
-                  Email: indhu.vegienti2021@vitstudent.ac.in
+                  Email: vangalahemalata.reddy2021@vitstudent.ac.in
                 </p>
                 <p className="flex items-center">
                   <IdCard className="w-4 h-4 mr-2" />
-                  Roll Number: 21BAI1927
+                  Roll Number: 21BPS1399
                 </p>
               </div>
             </div>
