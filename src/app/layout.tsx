@@ -7,7 +7,7 @@ import { ThemeProvider } from "next-themes";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "21BAI1927",
+  title: "21BPS1399",
   description: "BFHL Challenge",
 };
 

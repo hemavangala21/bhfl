@@ -1,8 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 
-const USER_ID = "indhu_veginetti_07102003";
-const EMAIL = "indhu.vegienti2021@vitstudent.ac.in";
-const ROLL_NUMBER = "21BAI1927";
+const USER_ID = "Vangala Hemalatha_21092003";
+const EMAIL = "vangalahemalata.reddy2021@vitstudent.ac.in";
+const ROLL_NUMBER = "21BPS1399";
 
 export async function POST(request: NextRequest) {
   try {
